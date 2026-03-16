@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hello :D
 
-<!--
-**ThapatW/ThapatW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student at **King Mongkut's Institute of Technology Ladkrabang**
+📚 Currently studying **Computer Engineering**
+💻 Interested in **UI Designing, Web Development and Software Development**
+🧩 University representative in **Crossword competitions**
+🌏 Based in **Thailand**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+* Programming: Python, C#, TypeScript/JavaScript, HTML/CSS
+* Frameworks: React.js, Next.js, Node.js, FastAPI, TailwindCSS, Bootstrap
+* Tools: Git, VS Code, Docker, k8s
+* Language: Thai (Native), English (Fluent)
+
+---
+
+## 📂 Projects
+
+Most of my Project is a group project with my friends (Not pinned here, most of it is in an organization)
+
+My favorite one is this one, i did it as my Graduation project
+* Pest10 – A website for basic Penetretion Testing and Report Generation
+
+This one is also a banger, First time learning about Image Processing and Object classification
+* Card Classification using YOLOv.8 and YOLOv.11 – So basically i test which model is better at doing its job
+
+---
+
+⭐ If you like my projects, feel free to check them out!
