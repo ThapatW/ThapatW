@@ -1,10 +1,10 @@
 # Hello :D
 
-🎓 I'm a student at **King Mongkut's Institute of Technology Ladkrabang**
-📚 Currently studying **Computer Engineering**
-💻 Interested in **UI Designing, Web Development and Software Development**
-🧩 University representative in **Crossword competitions**
-🌏 Based in **Thailand**
+🎓 I'm a student at **King Mongkut's Institute of Technology Ladkrabang**<br/>
+📚 Currently studying **Computer Engineering**<br/>
+💻 Interested in **UI Designing, Web Development and Software Development**<br/>
+🧩 University representative in **Crossword competitions**<br/>
+🌏 Based in **Thailand**<br/>
 
 ---
 
