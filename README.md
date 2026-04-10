@@ -22,7 +22,7 @@
 Most of my Project is a group project with my friends (Not pinned here, most of it is in an organization)
 
 My favorite one is this one, i did it as my Graduation project
-* Pest10 – A website for basic Penetretion Testing and Report Generation
+* Pest10 – A website for basic Penetretion Testing and Report Generation<br/>
 Link : https://github.com/Automate-Report/FRONTEND-CE68-22
 
 This one is also a banger, First time learning about Image Processing and Object classification
