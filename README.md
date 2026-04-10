@@ -23,6 +23,7 @@ Most of my Project is a group project with my friends (Not pinned here, most of 
 
 My favorite one is this one, i did it as my Graduation project
 * Pest10 – A website for basic Penetretion Testing and Report Generation
+Link : https://github.com/Automate-Report/FRONTEND-CE68-22
 
 This one is also a banger, First time learning about Image Processing and Object classification
 * Card Classification using YOLOv.8 and YOLOv.11 – So basically i test which model is better at doing its job
