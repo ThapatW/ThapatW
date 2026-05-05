@@ -11,7 +11,7 @@
 ## 🛠 Skills
 
 * Programming: Python, C#, TypeScript/JavaScript, HTML/CSS
-* Frameworks: React.js, Next.js, Node.js, FastAPI, TailwindCSS, Bootstrap
+* Frameworks: React.js, Next.js, Node.js, FastAPI, TailwindCSS, Bootstrap, Vue.js
 * Tools: Git, VS Code, Docker, k8s
 * Language: Thai (Native), English (Fluent)
 
