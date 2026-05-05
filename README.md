@@ -21,7 +21,11 @@
 
 Most of my Project is a group project with my friends (Not pinned here, most of it is in an organization)
 
-My favorite one is this one, i did it as my Graduation project
+This is my Portfolio for my art account
+* Hinoshii's Sandbox - Art showcase and minigames!
+I deployed it using online services: https://hinoshiiportfolio.vercel.app/
+
+This one, i did it as my Graduation project
 * Pest10 – A website for basic Penetretion Testing and Report Generation<br/>
 Link : https://github.com/Automate-Report/FRONTEND-CE68-22
 
