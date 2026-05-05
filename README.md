@@ -22,7 +22,7 @@
 Most of my Project is a group project with my friends (Not pinned here, most of it is in an organization)
 
 This is my Portfolio for my art account
-* Hinoshii's Sandbox - Art showcase and minigames!
+* Hinoshii's Sandbox - Art showcase and minigames!<br/>
 I deployed it using online services: https://hinoshiiportfolio.vercel.app/
 
 This one, i did it as my Graduation project
